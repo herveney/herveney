@@ -29,7 +29,7 @@ Trabalho com Qualidade de Software ha mais de 5 anos, ajudando times a entregar 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server) 
 [![SoapUI](https://img.shields.io/badge/-SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)](https://www.soapui.org/) 
-[![Zephyr](https://img.shields.io/badge/-Zephyr-2E7D32?style=flat&logo=jfrog&logoColor=white)](https://zephyrproject.org/) 
+[![Zephyr](https://img.shields.io/badge/-Zephyr%20(TM4J)-2E7D32?style=flat&logo=jira&logoColor=white)](https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira) 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/herveney) 
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
