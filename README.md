@@ -1,4 +1,4 @@
-# 🍀 Olá, eu sou a Herveney Lima  
+# 🍀 Olá, eu sou a Heva  
 Trabalho com Qualidade de Software ha mais de 5 anos, ajudando times a entregar produtos melhores através de processos bem estruturados, testes inteligentes e observabilidade. Minha paixão é encarar qualidade como algo holístico: desde evitar falhas até criar uma cultura de melhoria contínua.
 
 🚀 Atualmente estou expandindo meu portfólio de projetos em automação de testes, aplicando boas práticas de qualidade e versionamento no **GitHub**.  
