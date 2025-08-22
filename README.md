@@ -20,19 +20,21 @@ Trabalho com Qualidade de Software ha mais de 5 anos, ajudando times a entregar 
 
 ## 🛠️  Tecnologias e Ferramentas  
 
-[![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)  
-[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/)  
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)  
-[![SoapUI](https://img.shields.io/badge/-SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)](https://www.soapui.org/)  
-[![Zephyr](https://img.shields.io/badge/-Zephyr-2E7D32?style=flat&logo=jfrog&logoColor=white)](https://zephyrproject.org/)  
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/herveney)  
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)  
+## 🔧 Tecnologias e Ferramentas  
+
+[![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/) 
+[![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/) 
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server) 
+[![SoapUI](https://img.shields.io/badge/-SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)](https://www.soapui.org/) 
+[![Zephyr](https://img.shields.io/badge/-Zephyr-2E7D32?style=flat&logo=jfrog&logoColor=white)](https://zephyrproject.org/) 
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/herveney) 
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
 [![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=agile&logoColor=white)](https://en.wikipedia.org/wiki/Agile_software_development)  
-  
+
 
 ---
 
